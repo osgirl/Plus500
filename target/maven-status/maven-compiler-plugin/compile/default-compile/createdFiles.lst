@@ -1,0 +1,9 @@
+test\BaseTest.class
+utils\Randoms.class
+pages\LoginPage.class
+pages\AbstractPage.class
+pages\BuySellModal.class
+utils\Waits$1.class
+utils\Waits.class
+pages\TradePage.class
+Zenitech\Plus500\App.class
